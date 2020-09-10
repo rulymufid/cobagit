@@ -1,0 +1,28 @@
+.product-image-area {
+    position: relative;
+    background: #fff;
+    overflow: hidden;
+    border: 2px solid #ddd;
+    border-radius: 0;
+    z-index: 0;
+}
+.product-image {
+    position: relative;
+    display: block;
+}
+
+.product-image img{
+    width: 100%;
+}
+
+.item-area{
+  padding-top: 15px;
+}
+.number-sell {
+    color: #318ae8 !important;
+    background: white;
+    border-radius: 50%;
+    padding-right: 8px;
+    padding-left: 7px;
+    margin-left: 5px;
+}
